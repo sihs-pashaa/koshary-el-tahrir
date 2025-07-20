@@ -1,0 +1,159 @@
+{
+  "kosharyTitle": "Koshary El Tahrir",
+  "home": "Home",
+  "menuTitle": "Menu",
+  "contact": "Contact Us",
+  "login": "Login",
+  "register": "Register",
+  "adminPanel": "Admin Panel",
+  "myOrders": "My Orders",
+  "logout": "Logout",
+  "cart": "Cart",
+  "hero": {
+    "title": "The Origin of Koshary in Egypt",
+    "subtitle": "Taste like no other!",
+    "orderNow": "Order Now"
+  },
+  "menuPage": {
+    "title": "Menu"
+  },
+  "contactPage": {
+    "title": "Contact Us"
+  },
+  "menu": {
+    "addToCart": "Add to Cart",
+    "categories": {
+      "koshary": "Koshary",
+      "extras": "Extras",
+      "drinks": "Drinks",
+      "sweets": "Desserts"
+    }
+  },
+  "contactForm": {
+    "title": "📞 Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "message": "Message",
+    "send": "Send Message 💬",
+    "success": "✅ Your message has been sent successfully!",
+    "placeholder": {
+      "name": "Enter your name here",
+      "email": "example@mail.com",
+      "phone": "01012345678",
+      "message": "Write your message here..."
+    },
+    "info": {
+      "addressTitle": "📍 Our Address",
+      "address": "Tahrir Street, Downtown, Cairo",
+      "phoneTitle": "📞 Phone Number",
+      "workingHoursTitle": "🕐 Working Hours",
+      "workingHours": "Daily from 10 AM to 12 Midnight"
+    }
+  },
+  "footer": {
+    "brandTitle": "Koshary El Tahrir",
+    "brandDesc": "Authentic Egyptian flavor since 1963 🍛 Using the best ingredients to serve our customers.",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "phone": "📞 Phone Number",
+    "rights": "Koshary El Tahrir - All Rights Reserved",
+    "designedBy": "Designed by: Hussein El Desouky Ibrahim"
+  },
+  "loginPage": {
+    "title": "Admin Login",
+    "email": "Email",
+    "password": "Password",
+    "loginBtn": "Login",
+    "noAccount": "Don’t have an account?",
+    "registerLink": "Create New Account",
+    "invalidCredentials": "❌ Invalid email or password",
+    "error": "An error occurred during login"
+  },
+  "registerPage": {
+    "title": "Create New Account",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email",
+    "emailPlaceholder": "example@domain.com",
+    "address": "Address",
+    "addressPlaceholder": "Enter your full address",
+    "password": "Password",
+    "passwordPlaceholder": "••••••",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "••••••",
+    "submit": "Register",
+    "success": "✅ Registration successful! You will be redirected to the login page...",
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "passwordMismatch": "Passwords do not match",
+      "emailExists": "This email is already registered",
+      "serverError": "An error occurred during registration. Please try again"
+    }
+  },
+  "cartPage": {
+  "title": "🛒 Shopping Cart",
+  "emptyCart": "Your cart is currently empty.",
+  "quantity": "Quantity",
+  "remove": "Remove",
+  "total": "Total",
+  "currency": "EGP",
+  "customerInfo": "📝 Customer Information",
+  "placeholders": {
+    "name": "Name",
+    "phone": "Phone Number",
+    "address": "Address"
+  },
+  "confirmOrder": "Confirm Order ✅",
+  "loginFirst": "You must be logged in to confirm the order.",
+  "loginHere": "Click here to login",
+  "success": "Your order was submitted successfully! ✅",
+  "errors": {
+    "fillAllFields": "Please fill out all fields",
+    "serverError": "An error occurred while submitting your order, please try again."
+  }
+},
+"admin": {
+  "title": "Admin Dashboard",
+  "searchPlaceholder": "Search by name or phone...",
+  "noOrders": "There are currently no orders.",
+  "orderNumber": "Order Number:",
+  "name": "Name",
+  "phone": "Phone",
+  "address": "Address",
+  "products": "Ordered Products",
+  "quantity": "Quantity",
+  "confirmOrder": "Confirm Order",
+  "printInvoice": "Print Invoice",
+  "cancelOrder": "Cancel Order",
+  "orderConfirmed": "✅ Order number confirmed",
+  "confirmDelete": "Are you sure you want to cancel this order?",
+  "invoice": "Invoice for Order No."
+},
+"product": {
+  "loading": "⏳ Loading product data...",
+  "notFound": "❌ Product not found or an error occurred.",
+  "backToMenu": "Back to Menu",
+  "addToCart": "Add to Cart"
+},
+ "ordersPage": {
+    "title": "My Orders",
+    "noOrders": "No orders yet.",
+    "orderId": "Order ID",
+    "date": "Date",
+    "products": "Products",
+    "total": "Total",
+    "status": "Status",
+    "currency": "EGP",
+    "pending": "Pending"
+  },
+  "orderSuccess": {
+  "successTitle": "Order confirmed successfully!",
+  "successMessage": "Thank you for choosing Koshary El Tahrir ❤️",
+  "backToHome": "Back to Home"
+}
+
+
+
+
+}

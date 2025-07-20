@@ -1,0 +1,296 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "علبة تحرير",
+      "price": "40 جنيه",
+      "image": "./images/1.jpg",
+      "description": "كشري وسط يكفي فرد",
+      "category": "كشري"
+    },
+    {
+      "id": "2",
+      "name": "علبة توب",
+      "price": "50 جنيه",
+      "image": "./images/2.jpg",
+      "description": "كشري كبير مع صوص إضافي",
+      "category": "كشري"
+    },
+    {
+      "id": "3",
+      "name": "علبة لارج",
+      "price": "60 جنيه",
+      "image": "./images/3.jpg",
+      "description": "طبق كشري جامبو للي بيحب ياكل بجد",
+      "category": "كشري"
+    },
+    {
+      "id": "4",
+      "name": "علبة كينج",
+      "price": "75 جنيه",
+      "image": "./images/4.jpg",
+      "description": "طبق كشري كينج للي بيحب ياكل بجد",
+      "category": "كشري"
+    },
+    {
+      "id": "5",
+      "name": "   ميجا فويل ل 3 افراد",
+      "price": "160 جنيه",
+      "image": "./images/5.jpg",
+      "description": "طبق كشري فويل للي بيحب ياكل بجد",
+      "category": "كشري"
+    },
+    {
+      "id": "6",
+      "name": " فاميلى فويل ل 5 افراد",
+      "price": "260 جنيه",
+      "image": "./images/6.jpg",
+      "description": "طبق كشري جامبو فويل للي بيحب ياكل بجد",
+      "category": "كشري"
+    },
+    {
+      "id": "7",
+      "name": "حمص",
+      "price": "10 جنيه",
+      "image": "./images/7.jpg",
+      "description": "حمص طازج",
+      "category": "الإضافات"
+    },
+    {
+      "id": "8",
+      "name": " عدس",
+      "price": "10 جنيه",
+      "image": "./images/8.jpg",
+      "description": "عدس  طازج",
+      "category": "الإضافات"
+    },
+    {
+      "id": "9",
+      "name": "صلصة زيادة",
+      "price": "10 جنيه",
+      "image": "./images/9.jpg",
+      "description": "صلصة مخصوصة حرّاقة",
+      "category": "الإضافات"
+    },
+    {
+      "id": "10",
+      "name": " باكيت شطة",
+      "price": "5 جنيه",
+      "image": "./images/10.jpg",
+      "description": "شطة مخصوصة حرّاقة",
+      "category": "الإضافات"
+    },
+    {
+      "id": "11",
+      "name": "باكيت دقة",
+      "price": "5 جنيه",
+      "image": "./images/11.jpg",
+      "description": "دقة مخصوصة ",
+      "category": "الإضافات"
+    },
+    {
+      "id": "12",
+      "name": "باكيت تقلية",
+      "price": "15 جنيه",
+      "image": "./images/12.jpg",
+      "description": "تقلية مخصوصة حمراء",
+      "category": "الإضافات"
+    },
+    {
+      "id": "13",
+      "name": "مياة غازية PET -",
+      "price": "20 جنيه",
+      "image": "./images/13.jpg",
+      "description": "مياة غازيه مثلجة",
+      "category": "مشروبات"
+    },
+    {
+      "id": "14",
+      "name": " بيبسى",
+      "price": "25 جنيه",
+      "image": "./images/14.jpg",
+      "description": "  بيبسي مثلج",
+      "category": "مشروبات"
+    },
+    {
+      "id": "15",
+      "name": " بيبسى دايت",
+      "price": "25 جنيه",
+      "image": "./images/15.jpg",
+      "description": "  بيبسي دايت مثلج",
+      "category": "مشروبات"
+    },
+    {
+      "id": "16",
+      "name": " ميرندا برتقال",
+      "price": "25 جنيه",
+      "image": "./images/16.jpg",
+      "description": "ميرندا برتقال  مثلجة",
+      "category": "مشروبات"
+    },
+    {
+      "id": "17",
+      "name": " ميرندا تفاح",
+      "price": "25 جنيه",
+      "image": "./images/17.jpg",
+      "description": "ميرندا تفاح  مثلجة",
+      "category": "مشروبات"
+    },
+    {
+      "id": "18",
+      "name": " سفن اب",
+      "price": "25 جنيه",
+      "image": "./images/18.jpg",
+      "description": " سفن اب مثلج",
+      "category": "مشروبات"
+    },
+    {
+      "id": "19",
+      "name": "   سفن اب دايت",
+      "price": "25 جنيه",
+      "image": "./images/19.jpg",
+      "description": " سفن اب دايت مثلج",
+      "category": "مشروبات"
+    },
+    {
+      "id": "20",
+      "name": " مياه معدنية",
+      "price": "10 - 15 جنيه",
+      "image": "./images/20.jpg",
+      "description": " مياه معدنية ساقعة",
+      "category": "مشروبات"
+    },
+    {
+      "id": "21",
+      "name": "أرز بلبن",
+      "price": "30 جنيه",
+      "image": "./images/21.jpg",
+      "description": "أرز بلبن بالمكسرات",
+      "category": "حلويات"
+    },
+    {
+      "id": "22",
+      "name": " مهلبية",
+      "price": "30 جنيه",
+      "image": "./images/22.jpg",
+      "description": " مهلبية بالمكسرات",
+      "category": "حلويات"
+    }
+  ],
+  "orders": [
+    {
+      "id": "2eef",
+      "name": "حسين",
+      "phone": "010",
+      "address": "المنصوره",
+      "items": [
+        {
+          "id": "1",
+          "name": "كشري وسط",
+          "price": "30 جنيه",
+          "image": "/images/koshary-medium.jpg",
+          "description": "كشري وسط يكفي فرد",
+          "category": "كشري",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "صلصة زيادة",
+          "price": "5 جنيه",
+          "image": "/images/salsa.jpg",
+          "description": "صلصة مخصوصة حرّاقة",
+          "category": "الإضافات",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "name": "كشري حمص",
+          "price": "40 جنيه",
+          "image": "/images/koshary-homos.jpg",
+          "description": "كشري كبير مع صوص إضافي",
+          "category": "كشري",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "274a",
+      "name": "ححححححح",
+      "phone": "5555",
+      "address": "تتتتتت",
+      "items": [
+        {
+          "id": "2",
+          "name": "كشري حمص",
+          "price": "40 جنيه",
+          "image": "/images/koshary-homos.jpg",
+          "description": "كشري كبير مع صوص إضافي",
+          "category": "كشري",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "7789",
+      "name": "sihs",
+      "phone": "0101692",
+      "address": "mansoura",
+      "items": [
+        {
+          "id": "2",
+          "name": "علبة توب",
+          "price": "50 جنيه",
+          "image": "/images/2.jpg",
+          "description": "كشري كبير مع صوص إضافي",
+          "category": "كشري",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "8221",
+      "name": "احمد",
+      "phone": "010101010",
+      "address": "بلقاس",
+      "items": [
+        {
+          "id": "22",
+          "name": " مهلبية",
+          "price": "30 جنيه",
+          "image": "/images/22.jpg",
+          "description": " مهلبية بالمكسرات",
+          "category": "حلويات",
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@koshary.com",
+      "password": "123456"
+    },
+    {
+      "id": "0d27",
+      "name": "حسين",
+      "email": "hsynaldswqy54@gmail.com",
+      "address": "المنصوره",
+      "password": "1234567"
+    },
+    {
+      "id": "c2f9",
+      "name": "حسن",
+      "email": "husseineldesouky34@gmail.com",
+      "address": "المنصوره",
+      "password": "123123"
+    },
+    {
+      "id": "a46b",
+      "name": "ابراهيم",
+      "email": "elkhabatyaya@gmail.com",
+      "address": "المنصوره",
+      "password": "456456"
+    }
+  ]
+}

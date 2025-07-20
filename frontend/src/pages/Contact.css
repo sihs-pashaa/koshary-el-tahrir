@@ -1,0 +1,8 @@
+.fancy-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.fancy-hover:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 10px rgba(220, 53, 69, 0.7); /* لون أحمر خفيف */
+}
