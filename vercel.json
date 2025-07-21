@@ -1,3 +1,12 @@
 {
-  "buildCommand": "npm install --legacy-peer-deps && npm run build"
+  "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "build" }
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
 }
